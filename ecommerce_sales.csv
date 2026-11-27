@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Customer_Segment,Product,Category,Quantity,Unit_Price,Discount_Percent,Sales,Cost,Profit,Region,Payment_Method,Order_Status
+ORD1001,2025-07-12,CUST1147,Returning,Bedsheet,Home & Kitchen,2,1132,0,0.0,1232.72,0.0,West,Cash on Delivery,Cancelled
+ORD1002,2025-05-27,CUST1124,Returning,Speaker,Electronics,2,1943,0,0.0,2671.26,0.0,East,Credit Card,Returned
+ORD1003,2025-09-13,CUST1054,Loyal,Handbag,Fashion,1,2020,5,0.0,1448.55,0.0,East,Net Banking,Cancelled
+ORD1004,2025-09-29,CUST1103,Returning,Storage Box,Home & Kitchen,1,701,10,630.9,392.64,238.26,South,Net Banking,Delivered
+ORD1005,2025-09-08,CUST1072,New,Handbag,Fashion,2,1807,15,3071.9,2001.36,1070.54,East,Cash on Delivery,Delivered
+ORD1006,2025-06-08,CUST1121,New,T-Shirt,Fashion,4,539,0,2156.0,1587.65,568.35,Central,Credit Card,Delivered
+ORD1007,2025-10-12,CUST1100,Returning,Bedsheet,Home & Kitchen,1,915,20,732.0,663.01,68.99,South,Cash on Delivery,Delivered
+ORD1008,2025-08-27,CUST1071,Returning,Sneakers,Fashion,3,2239,5,6381.15,4660.15,1721.0,North,Cash on Delivery,Delivered
+ORD1009,2025-05-07,CUST1066,New,Bedsheet,Home & Kitchen,3,1033,15,2634.15,1636.31,997.84,South,Debit Card,Delivered
+ORD1010,2025-06-08,CUST1100,Returning,Face Wash,Beauty,1,216,20,172.8,128.81,43.99,East,Cash on Delivery,Delivered
+ORD1011,2025-02-08,CUST1014,Returning,Mixer Grinder,Home & Kitchen,2,3690,5,7011.0,3881.18,3129.82,West,Debit Card,Delivered
+ORD1012,2025-03-02,CUST1058,New,Speaker,Electronics,3,1799,10,0.0,3432.5,0.0,West,Cash on Delivery,Cancelled
+ORD1013,2025-06-30,CUST1105,New,Handbag,Fashion,1,1599,5,0.0,1209.21,0.0,West,Net Banking,Returned
+ORD1014,2025-06-13,CUST1136,Returning,Mixer Grinder,Home & Kitchen,3,3293,15,8397.15,5384.66,3012.49,West,Credit Card,Delivered
+ORD1015,2025-06-29,CUST1108,Returning,Handbag,Fashion,3,1634,10,0.0,3515.79,0.0,South,Cash on Delivery,Returned
+ORD1016,2025-03-07,CUST1075,New,Bottle,Home & Kitchen,3,350,15,892.5,557.36,335.14,West,UPI,Delivered
+ORD1017,2025-06-13,CUST1053,Returning,Wireless Mouse,Electronics,3,542,5,0.0,1091.17,0.0,South,UPI,Returned
+ORD1018,2025-09-02,CUST1074,Loyal,Moisturizer,Beauty,2,442,0,884.0,571.53,312.47,North,Debit Card,Delivered
+ORD1019,2025-04-14,CUST1004,Loyal,Handbag,Fashion,2,1725,10,3105.0,2187.7,917.3,North,Net Banking,Delivered
+ORD1020,2025-03-31,CUST1099,Returning,Headphones,Electronics,3,1327,15,0.0,2361.21,0.0,Central,Cash on Delivery,Cancelled
+ORD1021,2025-07-19,CUST1056,Loyal,Smart Watch,Electronics,4,2776,5,10548.8,7375.96,3172.84,East,Net Banking,Delivered
+ORD1022,2025-12-28,CUST1141,New,T-Shirt,Fashion,4,472,15,1604.8,1107.41,497.39,East,UPI,Delivered
+ORD1023,2025-03-23,CUST1135,Returning,Handbag,Fashion,4,2058,0,0.0,6187.22,0.0,East,Credit Card,Cancelled
+ORD1024,2025-05-19,CUST1040,Loyal,Mixer Grinder,Home & Kitchen,3,3210,20,7704.0,6877.41,826.59,Central,Credit Card,Delivered
+ORD1025,2025-09-20,CUST1132,New,Wireless Mouse,Electronics,4,539,15,1832.6,1457.11,375.49,South,Credit Card,Delivered
+ORD1026,2025-03-05,CUST1035,New,Mixer Grinder,Home & Kitchen,4,3349,10,12056.4,7014.46,5041.94,North,Cash on Delivery,Delivered
+ORD1027,2025-11-12,CUST1121,Returning,Headphones,Electronics,3,1617,15,4123.35,2774.49,1348.86,North,Cash on Delivery,Delivered
+ORD1028,2025-02-18,CUST1074,Returning,Headphones,Electronics,1,1732,0,1732.0,1036.16,695.84,South,Net Banking,Delivered
+ORD1029,2025-11-03,CUST1016,New,Speaker,Electronics,4,1715,10,6174.0,4697.96,1476.04,West,Debit Card,Delivered
+ORD1030,2025-08-20,CUST1118,New,Face Wash,Beauty,3,288,15,0.0,554.27,0.0,West,UPI,Returned
+ORD1031,2025-12-07,CUST1131,Returning,Moisturizer,Beauty,4,369,5,1402.2,1000.08,402.12,South,Debit Card,Delivered
+ORD1032,2025-07-13,CUST1038,New,Handbag,Fashion,2,1916,20,0.0,2444.87,0.0,Central,Cash on Delivery,Returned
+ORD1033,2025-03-12,CUST1124,New,Storage Box,Home & Kitchen,1,609,10,548.1,339.83,208.27,Central,UPI,Delivered
+ORD1034,2025-07-17,CUST1004,New,Shampoo,Beauty,1,282,10,253.8,155.11,98.69,North,UPI,Delivered
+ORD1035,2025-12-26,CUST1076,Loyal,Headphones,Electronics,3,1610,20,3864.0,2910.93,953.07,West,Net Banking,Delivered
+ORD1036,2025-12-13,CUST1063,New,Headphones,Electronics,1,1391,5,1321.45,929.91,391.54,North,Credit Card,Delivered
+ORD1037,2025-09-09,CUST1015,Loyal,Handbag,Fashion,1,2023,0,2023.0,1538.41,484.59,Central,Net Banking,Delivered
+ORD1038,2025-09-27,CUST1021,Returning,Moisturizer,Beauty,4,441,15,0.0,1274.56,0.0,South,Debit Card,Cancelled
+ORD1039,2025-01-23,CUST1021,Returning,Sunscreen,Beauty,2,438,15,0.0,516.21,0.0,North,Debit Card,Cancelled
+ORD1040,2025-03-08,CUST1103,New,Headphones,Electronics,2,1455,15,2473.5,1800.3,673.2,West,Net Banking,Delivered
+ORD1041,2025-06-28,CUST1098,Loyal,Sunscreen,Beauty,2,430,10,774.0,636.94,137.06,East,Debit Card,Delivered
+ORD1042,2025-07-03,CUST1130,New,Bottle,Home & Kitchen,2,435,0,870.0,609.56,260.44,Central,Cash on Delivery,Delivered
+ORD1043,2025-12-17,CUST1144,Loyal,Smart Watch,Electronics,3,2632,10,0.0,4388.01,0.0,East,Debit Card,Returned
+ORD1044,2025-01-19,CUST1015,Returning,Storage Box,Home & Kitchen,4,812,0,3248.0,2187.27,1060.73,North,UPI,Delivered
+ORD1045,2025-12-02,CUST1120,Returning,T-Shirt,Fashion,3,500,15,1275.0,1077.93,197.07,South,Debit Card,Delivered
+ORD1046,2025-09-24,CUST1063,Returning,Sunscreen,Beauty,1,399,15,339.15,275.73,63.42,South,Cash on Delivery,Delivered
+ORD1047,2025-07-14,CUST1048,New,Sneakers,Fashion,4,2752,15,9356.8,6766.51,2590.29,Central,UPI,Delivered
+ORD1048,2025-12-13,CUST1141,Returning,Shampoo,Beauty,2,291,0,0.0,386.32,0.0,West,Debit Card,Cancelled
+ORD1049,2025-04-09,CUST1128,Returning,Sneakers,Fashion,4,2716,20,0.0,5983.94,0.0,North,UPI,Returned
+ORD1050,2025-06-07,CUST1045,Returning,Bottle,Home & Kitchen,3,340,0,1020.0,749.3,270.7,South,Debit Card,Delivered
+ORD1051,2025-01-17,CUST1132,New,Sneakers,Fashion,4,2768,10,9964.8,8627.62,1337.18,West,Net Banking,Delivered
+ORD1052,2025-09-06,CUST1135,New,Smart Watch,Electronics,4,3207,0,0.0,6972.21,0.0,South,Credit Card,Cancelled
+ORD1053,2025-11-28,CUST1006,New,Speaker,Electronics,4,1829,0,0.0,5052.65,0.0,North,UPI,Returned
+ORD1054,2025-09-02,CUST1121,Loyal,Storage Box,Home & Kitchen,4,649,5,0.0,1388.55,0.0,North,Cash on Delivery,Returned
+ORD1055,2025-09-12,CUST1076,Returning,Storage Box,Home & Kitchen,4,603,10,2170.8,1332.58,838.22,East,Cash on Delivery,Delivered
+ORD1056,2025-02-06,CUST1107,Loyal,Moisturizer,Beauty,1,435,0,435.0,256.82,178.18,West,Cash on Delivery,Delivered
+ORD1057,2025-05-31,CUST1026,New,Wireless Mouse,Electronics,3,517,5,0.0,1092.66,0.0,West,UPI,Returned
+ORD1058,2025-06-12,CUST1022,Loyal,Shampoo,Beauty,2,331,5,0.0,442.76,0.0,East,Credit Card,Cancelled
+ORD1059,2025-06-18,CUST1077,Returning,Sneakers,Fashion,3,2659,10,0.0,4455.91,0.0,Central,Debit Card,Returned
+ORD1060,2025-10-14,CUST1092,Returning,Speaker,Electronics,1,1882,0,1882.0,1188.02,693.98,Central,Debit Card,Delivered
+ORD1061,2025-04-20,CUST1063,Returning,Handbag,Fashion,1,1878,15,1596.3,994.17,602.13,North,Credit Card,Delivered
+ORD1062,2025-08-14,CUST1048,Returning,Jeans,Fashion,3,1405,10,0.0,2906.8,0.0,South,Debit Card,Cancelled
+ORD1063,2025-07-23,CUST1133,Loyal,Sneakers,Fashion,3,2421,20,5810.4,5167.94,642.46,Central,Debit Card,Delivered
+ORD1064,2025-01-16,CUST1018,New,Jeans,Fashion,4,1238,10,0.0,3211.26,0.0,Central,Net Banking,Returned
+ORD1065,2025-01-25,CUST1112,New,Wireless Mouse,Electronics,2,575,10,1035.0,691.85,343.15,East,Net Banking,Delivered
+ORD1066,2025-07-05,CUST1055,Loyal,Moisturizer,Beauty,2,359,5,0.0,395.7,0.0,North,Net Banking,Cancelled
+ORD1067,2025-12-04,CUST1097,New,Mixer Grinder,Home & Kitchen,2,3552,0,0.0,4410.44,0.0,West,Credit Card,Cancelled
+ORD1068,2025-12-16,CUST1084,Loyal,Jeans,Fashion,1,1175,10,0.0,913.18,0.0,Central,Net Banking,Returned
+ORD1069,2025-01-16,CUST1066,Returning,Smart Watch,Electronics,2,2937,5,5580.3,4208.05,1372.25,Central,UPI,Delivered
+ORD1070,2025-03-12,CUST1074,Returning,Wireless Mouse,Electronics,4,517,15,1757.8,1232.39,525.41,West,Debit Card,Delivered
+ORD1071,2025-05-29,CUST1101,Returning,Headphones,Electronics,1,1691,20,0.0,1164.72,0.0,West,UPI,Cancelled
+ORD1072,2025-07-13,CUST1116,Loyal,Sneakers,Fashion,3,2403,20,0.0,4653.18,0.0,South,Debit Card,Returned
+ORD1073,2025-11-06,CUST1080,New,Moisturizer,Beauty,3,451,5,1285.35,879.03,406.32,North,Credit Card,Delivered
+ORD1074,2025-04-05,CUST1004,Loyal,Shampoo,Beauty,3,271,0,813.0,463.26,349.74,West,Debit Card,Delivered
+ORD1075,2025-07-11,CUST1096,Loyal,T-Shirt,Fashion,3,425,10,1147.5,896.06,251.44,Central,Cash on Delivery,Delivered
+ORD1076,2025-08-16,CUST1118,Loyal,Handbag,Fashion,4,2065,10,0.0,6363.79,0.0,North,UPI,Cancelled
+ORD1077,2025-02-09,CUST1148,New,Storage Box,Home & Kitchen,2,721,20,0.0,1113.44,0.0,Central,Cash on Delivery,Cancelled
+ORD1078,2025-12-18,CUST1074,Loyal,Bedsheet,Home & Kitchen,2,889,5,1689.1,1283.91,405.19,Central,Debit Card,Delivered
+ORD1079,2025-07-17,CUST1121,Loyal,Face Wash,Beauty,2,276,15,469.2,366.76,102.44,East,Net Banking,Delivered
+ORD1080,2025-10-06,CUST1107,Returning,Wireless Mouse,Electronics,2,518,5,984.2,720.62,263.58,North,Net Banking,Delivered
+ORD1081,2025-03-27,CUST1129,New,Mixer Grinder,Home & Kitchen,4,2857,20,9142.4,7790.39,1352.01,Central,Debit Card,Delivered
+ORD1082,2025-04-03,CUST1036,Loyal,Bedsheet,Home & Kitchen,1,981,15,0.0,681.42,0.0,East,Credit Card,Returned
+ORD1083,2025-07-20,CUST1133,New,Sunscreen,Beauty,2,469,10,844.2,554.78,289.42,West,UPI,Delivered
+ORD1084,2025-10-10,CUST1062,New,Jeans,Fashion,3,1450,10,0.0,2597.19,0.0,North,Debit Card,Returned
+ORD1085,2025-03-22,CUST1075,New,Sunscreen,Beauty,3,469,0,1407.0,1066.47,340.53,North,Credit Card,Delivered
+ORD1086,2025-11-18,CUST1052,Returning,Headphones,Electronics,1,1282,5,1217.9,878.14,339.76,Central,Net Banking,Delivered
+ORD1087,2025-07-24,CUST1049,Loyal,Bedsheet,Home & Kitchen,3,942,5,0.0,1642.26,0.0,South,Debit Card,Returned
+ORD1088,2025-04-20,CUST1049,New,Bottle,Home & Kitchen,3,425,0,1275.0,743.01,531.99,South,Net Banking,Delivered
+ORD1089,2025-11-11,CUST1072,Loyal,Wireless Mouse,Electronics,3,665,10,0.0,1264.79,0.0,East,Cash on Delivery,Cancelled
+ORD1090,2025-04-27,CUST1016,Returning,Bedsheet,Home & Kitchen,4,1108,10,3988.8,2952.44,1036.36,South,Net Banking,Delivered
+ORD1091,2025-04-18,CUST1007,New,Handbag,Fashion,2,1550,20,0.0,1695.02,0.0,East,UPI,Returned
+ORD1092,2025-08-20,CUST1058,New,Jeans,Fashion,3,1238,0,3714.0,2039.05,1674.95,Central,Cash on Delivery,Delivered
+ORD1093,2025-04-16,CUST1017,Loyal,Speaker,Electronics,2,1959,5,3722.1,2039.05,1683.05,North,UPI,Delivered
+ORD1094,2025-06-20,CUST1127,New,Jeans,Fashion,2,1246,10,2242.8,1801.59,441.21,South,Credit Card,Delivered
+ORD1095,2025-04-01,CUST1140,New,Speaker,Electronics,2,2149,5,4083.1,2604.55,1478.55,East,Debit Card,Delivered
+ORD1096,2025-02-02,CUST1002,New,Bottle,Home & Kitchen,1,345,5,327.75,261.82,65.93,Central,UPI,Delivered
+ORD1097,2025-09-08,CUST1128,New,Smart Watch,Electronics,3,2788,0,8364.0,5632.74,2731.26,South,Net Banking,Delivered
+ORD1098,2025-04-01,CUST1138,Returning,Mixer Grinder,Home & Kitchen,1,3645,20,0.0,2136.37,0.0,Central,Cash on Delivery,Returned
+ORD1099,2025-02-11,CUST1091,New,Face Wash,Beauty,2,278,0,556.0,404.65,151.35,East,Debit Card,Delivered
+ORD1100,2025-09-14,CUST1025,Returning,Handbag,Fashion,1,1546,15,1314.1,811.57,502.53,Central,Cash on Delivery,Delivered
+ORD1101,2025-10-11,CUST1022,Returning,Storage Box,Home & Kitchen,2,799,0,1598.0,883.32,714.68,North,UPI,Delivered
+ORD1102,2025-07-30,CUST1088,New,T-Shirt,Fashion,4,424,20,1356.8,1319.83,36.97,East,Net Banking,Delivered
+ORD1103,2025-06-13,CUST1090,New,Moisturizer,Beauty,3,421,0,1263.0,673.35,589.65,South,Cash on Delivery,Delivered
+ORD1104,2025-11-03,CUST1039,Returning,Face Wash,Beauty,1,260,0,260.0,194.27,65.73,North,Debit Card,Delivered
+ORD1105,2025-09-19,CUST1148,Returning,Handbag,Fashion,3,1960,15,4998.0,4217.08,780.92,Central,Debit Card,Delivered
+ORD1106,2025-10-09,CUST1134,New,Wireless Mouse,Electronics,4,611,10,2199.6,1330.66,868.94,North,Cash on Delivery,Delivered
+ORD1107,2025-12-25,CUST1137,New,Headphones,Electronics,4,1362,15,4630.8,4049.69,581.11,South,Debit Card,Delivered
+ORD1108,2025-08-27,CUST1110,Returning,Bedsheet,Home & Kitchen,4,974,10,3506.4,2777.25,729.15,Central,Debit Card,Delivered
+ORD1109,2025-01-02,CUST1031,Returning,Speaker,Electronics,4,2270,20,0.0,4957.36,0.0,East,UPI,Cancelled
+ORD1110,2025-08-17,CUST1048,Returning,Sunscreen,Beauty,2,488,20,0.0,607.66,0.0,East,Debit Card,Returned
+ORD1111,2025-05-04,CUST1057,New,T-Shirt,Fashion,3,578,10,1560.6,990.38,570.22,West,UPI,Delivered
+ORD1112,2025-03-14,CUST1015,Returning,Headphones,Electronics,3,1442,0,0.0,2523.51,0.0,East,Net Banking,Returned
+ORD1113,2025-06-15,CUST1039,New,Headphones,Electronics,1,1366,10,1229.4,876.68,352.72,North,Debit Card,Delivered
+ORD1114,2025-02-19,CUST1045,Returning,Face Wash,Beauty,3,252,20,604.8,442.74,162.06,South,Net Banking,Delivered
+ORD1115,2025-05-30,CUST1021,New,Face Wash,Beauty,4,292,5,0.0,629.17,0.0,South,Debit Card,Returned
+ORD1116,2025-01-30,CUST1038,New,Speaker,Electronics,4,2106,10,7581.6,4742.55,2839.05,North,Net Banking,Delivered
+ORD1117,2025-02-10,CUST1115,Returning,Bedsheet,Home & Kitchen,3,946,20,2270.4,1774.49,495.91,North,Credit Card,Delivered
+ORD1118,2025-03-06,CUST1127,New,Moisturizer,Beauty,1,457,15,388.45,269.07,119.38,West,Debit Card,Delivered
+ORD1119,2025-09-30,CUST1051,Returning,T-Shirt,Fashion,1,541,0,0.0,404.34,0.0,West,Credit Card,Returned
+ORD1120,2025-04-30,CUST1078,Returning,Headphones,Electronics,1,1739,0,0.0,1255.75,0.0,East,Debit Card,Returned
+ORD1121,2025-02-02,CUST1073,Loyal,Handbag,Fashion,2,1607,5,3053.3,2467.02,586.28,North,UPI,Delivered
+ORD1122,2025-02-27,CUST1138,New,Handbag,Fashion,1,1679,20,1343.2,925.01,418.19,Central,Cash on Delivery,Delivered
+ORD1123,2025-02-22,CUST1123,Returning,Handbag,Fashion,2,1844,15,3134.8,2865.71,269.09,South,Debit Card,Delivered
+ORD1124,2025-01-21,CUST1120,Returning,Speaker,Electronics,4,1924,10,6926.4,4687.06,2239.34,North,Cash on Delivery,Delivered
+ORD1125,2025-10-03,CUST1001,Loyal,Storage Box,Home & Kitchen,1,807,10,726.3,553.72,172.58,South,Credit Card,Delivered
+ORD1126,2025-07-01,CUST1059,Loyal,Headphones,Electronics,2,1337,10,2406.6,1830.07,576.53,West,Credit Card,Delivered
+ORD1127,2025-08-13,CUST1143,New,Bedsheet,Home & Kitchen,2,1066,15,1812.2,1370.71,441.49,East,UPI,Delivered
+ORD1128,2025-09-30,CUST1113,Loyal,Storage Box,Home & Kitchen,4,603,20,1929.6,1813.94,115.66,East,Debit Card,Delivered
+ORD1129,2025-05-24,CUST1061,Returning,Bottle,Home & Kitchen,2,463,15,787.1,659.32,127.78,North,Cash on Delivery,Delivered
+ORD1130,2025-09-12,CUST1062,Returning,Sneakers,Fashion,4,2469,0,0.0,6014.62,0.0,South,UPI,Cancelled
+ORD1131,2025-11-20,CUST1049,New,Headphones,Electronics,3,1598,15,0.0,2517.52,0.0,North,Cash on Delivery,Cancelled
+ORD1132,2025-10-07,CUST1021,New,Sunscreen,Beauty,1,480,0,480.0,283.94,196.06,South,Cash on Delivery,Delivered
+ORD1133,2025-08-01,CUST1092,New,Shampoo,Beauty,1,307,10,0.0,235.7,0.0,South,Cash on Delivery,Cancelled
+ORD1134,2025-07-16,CUST1061,Loyal,Sneakers,Fashion,4,2453,10,0.0,5161.5,0.0,Central,Cash on Delivery,Cancelled
+ORD1135,2025-09-15,CUST1074,Returning,T-Shirt,Fashion,4,564,5,2143.2,1492.53,650.67,Central,Credit Card,Delivered
+ORD1136,2025-01-08,CUST1112,Returning,Headphones,Electronics,4,1731,5,0.0,5361.48,0.0,South,Cash on Delivery,Returned
+ORD1137,2025-04-22,CUST1039,Returning,Sneakers,Fashion,2,2322,15,0.0,2764.22,0.0,South,Debit Card,Cancelled
+ORD1138,2025-01-15,CUST1051,Returning,Smart Watch,Electronics,4,3400,10,12240.0,7098.54,5141.46,North,Net Banking,Delivered
+ORD1139,2025-04-15,CUST1029,New,Smart Watch,Electronics,4,2663,0,10652.0,8304.71,2347.29,North,Debit Card,Delivered
+ORD1140,2025-08-03,CUST1119,New,Storage Box,Home & Kitchen,4,820,15,2788.0,1823.28,964.72,East,Net Banking,Delivered
+ORD1141,2025-07-04,CUST1083,Returning,Mixer Grinder,Home & Kitchen,1,3710,10,3339.0,2337.7,1001.3,South,Cash on Delivery,Delivered
+ORD1142,2025-09-07,CUST1110,Loyal,Bottle,Home & Kitchen,4,470,0,1880.0,1024.13,855.87,South,Credit Card,Delivered
+ORD1143,2025-04-29,CUST1119,Loyal,T-Shirt,Fashion,2,432,5,0.0,528.65,0.0,Central,Net Banking,Cancelled
+ORD1144,2025-03-23,CUST1134,New,Jeans,Fashion,2,1425,15,0.0,1846.02,0.0,East,Net Banking,Returned
+ORD1145,2025-03-24,CUST1001,Returning,Headphones,Electronics,1,1538,5,1461.1,820.88,640.22,Central,Cash on Delivery,Delivered
+ORD1146,2025-01-24,CUST1130,Loyal,Headphones,Electronics,3,1681,5,4790.85,2814.92,1975.93,East,Debit Card,Delivered
+ORD1147,2025-04-30,CUST1113,Returning,Bottle,Home & Kitchen,1,391,10,0.0,229.49,0.0,East,Cash on Delivery,Cancelled
+ORD1148,2025-12-18,CUST1018,New,Jeans,Fashion,2,1198,15,2036.6,1714.07,322.53,South,UPI,Delivered
+ORD1149,2025-12-27,CUST1099,Returning,Wireless Mouse,Electronics,4,587,15,0.0,1304.72,0.0,Central,Credit Card,Returned
+ORD1150,2025-06-22,CUST1099,New,Sunscreen,Beauty,4,510,10,1836.0,1177.91,658.09,South,Cash on Delivery,Delivered
+ORD1151,2025-07-13,CUST1008,Returning,Sneakers,Fashion,3,2807,5,0.0,4437.11,0.0,South,Debit Card,Cancelled
+ORD1152,2025-02-27,CUST1058,New,Headphones,Electronics,2,1649,0,0.0,2196.2,0.0,North,Debit Card,Returned
+ORD1153,2025-01-04,CUST1032,Loyal,Jeans,Fashion,3,1394,20,3345.6,2175.8,1169.8,West,Cash on Delivery,Delivered
+ORD1154,2025-06-23,CUST1009,New,Speaker,Electronics,4,2009,20,6428.8,6133.4,295.4,East,Debit Card,Delivered
+ORD1155,2025-02-08,CUST1064,New,Headphones,Electronics,3,1380,20,3312.0,2375.6,936.4,North,UPI,Delivered
+ORD1156,2025-05-05,CUST1040,Returning,Face Wash,Beauty,2,241,5,457.9,295.43,162.47,East,Credit Card,Delivered
+ORD1157,2025-06-17,CUST1093,New,Face Wash,Beauty,4,219,15,744.6,481.79,262.81,North,Net Banking,Delivered
+ORD1158,2025-03-18,CUST1061,New,Bottle,Home & Kitchen,4,408,0,0.0,867.38,0.0,East,Net Banking,Returned
+ORD1159,2025-07-13,CUST1075,Loyal,Handbag,Fashion,4,1630,20,0.0,4235.69,0.0,Central,Credit Card,Returned
+ORD1160,2025-12-25,CUST1016,Loyal,Handbag,Fashion,3,1605,15,4092.75,2745.68,1347.07,North,Debit Card,Delivered
+ORD1161,2025-10-20,CUST1140,New,Sneakers,Fashion,2,2480,20,0.0,3774.36,0.0,West,Credit Card,Cancelled
+ORD1162,2025-05-15,CUST1049,New,Handbag,Fashion,3,1803,5,0.0,3592.35,0.0,North,Credit Card,Cancelled
+ORD1163,2025-10-12,CUST1085,Returning,Headphones,Electronics,1,1631,20,1304.8,939.1,365.7,East,Credit Card,Delivered
+ORD1164,2025-08-28,CUST1142,New,Sunscreen,Beauty,4,470,0,0.0,1003.3,0.0,North,Net Banking,Cancelled
+ORD1165,2025-01-31,CUST1004,Returning,Handbag,Fashion,1,1552,20,0.0,1034.09,0.0,North,Net Banking,Cancelled
+ORD1166,2025-11-18,CUST1132,New,T-Shirt,Fashion,2,425,10,0.0,515.09,0.0,Central,Debit Card,Cancelled
+ORD1167,2025-03-29,CUST1145,Loyal,Smart Watch,Electronics,1,3316,0,3316.0,2186.86,1129.14,West,Net Banking,Delivered
+ORD1168,2025-05-23,CUST1122,Returning,Speaker,Electronics,3,2278,10,6150.6,3733.33,2417.27,South,Debit Card,Delivered
+ORD1169,2025-02-16,CUST1018,Returning,Shampoo,Beauty,3,296,20,710.4,558.18,152.22,South,Net Banking,Delivered
+ORD1170,2025-07-04,CUST1070,Returning,Smart Watch,Electronics,2,3414,0,6828.0,4474.52,2353.48,East,UPI,Delivered
+ORD1171,2025-12-17,CUST1079,New,Bottle,Home & Kitchen,2,420,0,840.0,537.64,302.36,East,UPI,Delivered
+ORD1172,2025-03-23,CUST1122,Loyal,Headphones,Electronics,2,1322,10,0.0,1653.29,0.0,South,UPI,Returned
+ORD1173,2025-05-14,CUST1006,Returning,Storage Box,Home & Kitchen,4,740,5,2812.0,1870.96,941.04,South,Net Banking,Delivered
+ORD1174,2025-05-22,CUST1007,Loyal,Shampoo,Beauty,1,323,10,290.7,243.79,46.91,West,Net Banking,Delivered
+ORD1175,2025-01-26,CUST1138,Returning,Headphones,Electronics,1,1687,20,1349.6,1111.86,237.74,West,Credit Card,Delivered
+ORD1176,2025-07-07,CUST1043,Loyal,Handbag,Fashion,1,2104,5,1998.8,1197.67,801.13,North,UPI,Delivered
+ORD1177,2025-05-13,CUST1142,New,Face Wash,Beauty,3,279,0,0.0,618.51,0.0,Central,Cash on Delivery,Returned
+ORD1178,2025-10-06,CUST1073,Returning,Jeans,Fashion,3,1489,5,0.0,3141.45,0.0,Central,Credit Card,Returned
+ORD1179,2025-09-22,CUST1067,Loyal,T-Shirt,Fashion,2,438,15,744.6,633.14,111.46,Central,Cash on Delivery,Delivered
+ORD1180,2025-05-20,CUST1078,Loyal,Headphones,Electronics,1,1375,5,0.0,793.19,0.0,Central,Net Banking,Returned
+ORD1181,2025-02-24,CUST1086,Loyal,Smart Watch,Electronics,1,2701,20,2160.8,1541.55,619.25,South,Debit Card,Delivered
+ORD1182,2025-08-17,CUST1143,New,Storage Box,Home & Kitchen,1,778,20,0.0,579.36,0.0,North,UPI,Cancelled
+ORD1183,2025-02-15,CUST1082,New,Headphones,Electronics,2,1741,20,2785.6,2508.44,277.16,West,Credit Card,Delivered
+ORD1184,2025-11-26,CUST1026,Loyal,Bottle,Home & Kitchen,3,396,20,950.4,840.74,109.66,West,UPI,Delivered
+ORD1185,2025-04-12,CUST1150,Returning,Smart Watch,Electronics,2,3063,0,6126.0,3881.03,2244.97,East,Debit Card,Delivered
+ORD1186,2025-08-12,CUST1008,Loyal,Handbag,Fashion,1,1881,5,1786.95,1289.95,497.0,North,Debit Card,Delivered
+ORD1187,2025-09-30,CUST1118,Returning,Moisturizer,Beauty,2,347,20,0.0,477.84,0.0,East,Cash on Delivery,Returned
+ORD1188,2025-12-06,CUST1145,New,Sunscreen,Beauty,3,433,10,0.0,902.39,0.0,East,Debit Card,Cancelled
+ORD1189,2025-08-07,CUST1112,New,Mixer Grinder,Home & Kitchen,3,3606,10,9736.2,6231.48,3504.72,South,UPI,Delivered
+ORD1190,2025-02-06,CUST1144,New,Bottle,Home & Kitchen,3,456,15,1162.8,750.74,412.06,South,UPI,Delivered
+ORD1191,2025-11-02,CUST1027,New,Headphones,Electronics,3,1710,15,0.0,3612.14,0.0,West,Debit Card,Cancelled
+ORD1192,2025-10-30,CUST1106,New,Headphones,Electronics,2,1426,5,2709.4,1891.05,818.35,East,Debit Card,Delivered
+ORD1193,2025-04-12,CUST1037,New,Bedsheet,Home & Kitchen,3,1117,5,3183.45,2457.44,726.01,North,UPI,Delivered
+ORD1194,2025-03-08,CUST1041,New,Jeans,Fashion,2,1207,20,0.0,1452.26,0.0,North,Debit Card,Cancelled
+ORD1195,2025-05-14,CUST1075,Returning,Handbag,Fashion,2,1669,10,0.0,2542.89,0.0,North,Net Banking,Cancelled
+ORD1196,2025-05-11,CUST1070,New,Moisturizer,Beauty,3,456,20,0.0,992.86,0.0,West,UPI,Returned
+ORD1197,2025-08-23,CUST1126,New,Jeans,Fashion,2,1278,10,2300.4,1696.07,604.33,West,Credit Card,Delivered
+ORD1198,2025-02-28,CUST1048,Returning,Bottle,Home & Kitchen,4,470,15,0.0,1412.58,0.0,West,Credit Card,Returned
+ORD1199,2025-03-20,CUST1026,New,Bedsheet,Home & Kitchen,4,962,20,3078.4,2297.4,781.0,West,UPI,Delivered
+ORD1200,2025-09-28,CUST1027,Loyal,Sunscreen,Beauty,2,505,0,0.0,575.6,0.0,Central,Credit Card,Cancelled
+ORD1201,2025-12-17,CUST1042,Loyal,Sunscreen,Beauty,1,482,20,0.0,280.12,0.0,East,Credit Card,Returned
+ORD1202,2025-07-31,CUST1057,Loyal,Handbag,Fashion,2,1679,15,0.0,2420.05,0.0,Central,Credit Card,Cancelled
+ORD1203,2025-11-24,CUST1078,Loyal,Smart Watch,Electronics,3,3532,20,8476.8,6082.95,2393.85,West,UPI,Delivered
+ORD1204,2025-07-25,CUST1062,Returning,Jeans,Fashion,3,1263,5,3599.55,2162.87,1436.68,West,Net Banking,Delivered
+ORD1205,2025-03-30,CUST1139,New,Bedsheet,Home & Kitchen,3,1173,0,3519.0,2198.93,1320.07,Central,Cash on Delivery,Delivered
+ORD1206,2025-05-28,CUST1070,New,Storage Box,Home & Kitchen,1,702,0,702.0,398.87,303.13,North,Cash on Delivery,Delivered
+ORD1207,2025-04-11,CUST1021,Loyal,Shampoo,Beauty,4,280,15,952.0,656.58,295.42,East,Debit Card,Delivered
+ORD1208,2025-10-15,CUST1096,Returning,Headphones,Electronics,4,1471,5,5589.8,3307.42,2282.38,North,Credit Card,Delivered
+ORD1209,2025-11-10,CUST1131,New,Shampoo,Beauty,4,337,0,1348.0,718.67,629.33,North,Cash on Delivery,Delivered
+ORD1210,2025-12-22,CUST1067,Loyal,Bedsheet,Home & Kitchen,1,1106,0,0.0,784.57,0.0,North,Debit Card,Returned
+ORD1211,2025-12-27,CUST1036,Returning,Bottle,Home & Kitchen,4,437,15,1485.8,962.52,523.28,West,Debit Card,Delivered
+ORD1212,2025-10-10,CUST1111,Returning,Storage Box,Home & Kitchen,2,775,20,0.0,905.43,0.0,South,Debit Card,Returned
+ORD1213,2025-02-27,CUST1148,New,Headphones,Electronics,4,1749,0,0.0,5307.47,0.0,South,Cash on Delivery,Cancelled
+ORD1214,2025-02-05,CUST1043,Returning,T-Shirt,Fashion,4,439,10,1580.4,1312.86,267.54,West,Credit Card,Delivered
+ORD1215,2025-03-27,CUST1091,Returning,Moisturizer,Beauty,4,378,5,0.0,918.67,0.0,Central,Net Banking,Cancelled
+ORD1216,2025-06-23,CUST1009,New,Headphones,Electronics,1,1626,5,1544.7,1055.04,489.66,Central,Net Banking,Delivered
+ORD1217,2025-07-16,CUST1039,Loyal,Speaker,Electronics,2,2322,20,3715.2,3320.1,395.1,South,Cash on Delivery,Delivered
+ORD1218,2025-10-18,CUST1035,New,Moisturizer,Beauty,1,409,10,0.0,238.81,0.0,South,Net Banking,Cancelled
+ORD1219,2025-02-14,CUST1068,Returning,Bottle,Home & Kitchen,3,437,20,1048.8,844.01,204.79,South,Credit Card,Delivered
+ORD1220,2025-04-07,CUST1146,Loyal,Sunscreen,Beauty,4,433,20,1385.6,964.15,421.45,West,Net Banking,Delivered
+ORD1221,2025-05-19,CUST1011,Loyal,Handbag,Fashion,1,1654,0,1654.0,911.73,742.27,North,UPI,Delivered
+ORD1222,2025-05-30,CUST1133,Returning,Smart Watch,Electronics,4,3123,0,0.0,8544.99,0.0,East,Debit Card,Cancelled
+ORD1223,2025-06-03,CUST1120,New,Mixer Grinder,Home & Kitchen,2,3180,0,6360.0,3587.84,2772.16,East,UPI,Delivered
+ORD1224,2025-11-18,CUST1012,Returning,Speaker,Electronics,4,1916,20,0.0,5691.8,0.0,South,Credit Card,Cancelled
+ORD1225,2025-04-01,CUST1044,Returning,Headphones,Electronics,3,1724,0,5172.0,3454.36,1717.64,South,Cash on Delivery,Delivered
+ORD1226,2025-07-24,CUST1103,New,Bottle,Home & Kitchen,3,356,5,0.0,742.72,0.0,West,Debit Card,Cancelled
+ORD1227,2025-10-09,CUST1036,Loyal,Jeans,Fashion,1,1199,5,1139.05,855.07,283.98,East,Debit Card,Delivered
+ORD1228,2025-12-06,CUST1074,Returning,Storage Box,Home & Kitchen,2,709,0,0.0,1079.48,0.0,West,Cash on Delivery,Cancelled
+ORD1229,2025-05-03,CUST1075,Returning,Bottle,Home & Kitchen,1,407,15,345.95,309.17,36.78,Central,Net Banking,Delivered
+ORD1230,2025-08-24,CUST1065,Returning,Sneakers,Fashion,1,2303,0,2303.0,1197.9,1105.1,East,Cash on Delivery,Delivered
+ORD1231,2025-05-27,CUST1094,New,Wireless Mouse,Electronics,3,539,0,0.0,911.2,0.0,South,Cash on Delivery,Returned
+ORD1232,2025-02-27,CUST1114,Loyal,Jeans,Fashion,4,1203,5,0.0,3128.06,0.0,South,Net Banking,Returned
+ORD1233,2025-10-02,CUST1150,Loyal,Smart Watch,Electronics,2,2796,15,4753.2,3754.67,998.53,North,Debit Card,Delivered
+ORD1234,2025-09-01,CUST1125,New,Bedsheet,Home & Kitchen,4,1156,5,4392.8,3039.91,1352.89,Central,Debit Card,Delivered
+ORD1235,2025-01-14,CUST1049,Returning,Moisturizer,Beauty,4,458,10,0.0,1080.83,0.0,North,Debit Card,Cancelled
+ORD1236,2025-06-04,CUST1050,New,Sneakers,Fashion,3,2460,15,0.0,4477.62,0.0,East,UPI,Cancelled
+ORD1237,2025-03-06,CUST1004,New,Sunscreen,Beauty,2,415,0,0.0,551.15,0.0,North,UPI,Cancelled
+ORD1238,2025-10-21,CUST1004,Loyal,Storage Box,Home & Kitchen,2,609,0,1218.0,817.58,400.42,North,UPI,Delivered
+ORD1239,2025-08-17,CUST1134,New,Bottle,Home & Kitchen,2,397,5,754.3,578.6,175.7,East,UPI,Delivered
+ORD1240,2025-02-21,CUST1109,Returning,Moisturizer,Beauty,3,358,20,859.2,742.77,116.43,Central,Net Banking,Delivered
+ORD1241,2025-09-25,CUST1007,New,Sneakers,Fashion,2,2517,15,4278.9,2911.4,1367.5,East,Cash on Delivery,Delivered
+ORD1242,2025-07-10,CUST1122,Returning,Headphones,Electronics,2,1592,5,0.0,2298.62,0.0,North,UPI,Cancelled
+ORD1243,2025-07-29,CUST1069,Returning,Sneakers,Fashion,3,2326,0,6978.0,4034.22,2943.78,North,UPI,Delivered
+ORD1244,2025-04-21,CUST1139,Loyal,Shampoo,Beauty,4,274,15,0.0,575.01,0.0,East,UPI,Returned
+ORD1245,2025-10-16,CUST1012,Loyal,Bedsheet,Home & Kitchen,4,1147,5,0.0,3042.23,0.0,North,Cash on Delivery,Returned
+ORD1246,2025-09-16,CUST1012,Returning,Mixer Grinder,Home & Kitchen,2,3426,10,6166.8,4880.96,1285.84,North,Net Banking,Delivered
+ORD1247,2025-01-09,CUST1056,New,Sneakers,Fashion,3,2381,20,0.0,5075.9,0.0,South,Credit Card,Returned
+ORD1248,2025-08-28,CUST1057,Loyal,Sneakers,Fashion,4,2729,0,10916.0,8115.89,2800.11,West,Credit Card,Delivered
+ORD1249,2025-07-17,CUST1023,New,Mixer Grinder,Home & Kitchen,4,3084,0,0.0,9581.39,0.0,West,Cash on Delivery,Cancelled
+ORD1250,2025-07-06,CUST1051,Loyal,Jeans,Fashion,1,1307,15,0.0,776.53,0.0,West,Debit Card,Cancelled
+ORD1251,2025-05-09,CUST1133,Returning,Face Wash,Beauty,2,289,5,0.0,317.98,0.0,South,UPI,Cancelled
+ORD1252,2025-03-18,CUST1067,Returning,Wireless Mouse,Electronics,3,518,10,1398.6,864.56,534.04,East,Debit Card,Delivered
+ORD1253,2025-10-05,CUST1017,New,Headphones,Electronics,1,1578,5,1499.1,1087.79,411.31,East,Credit Card,Delivered
+ORD1254,2025-03-16,CUST1090,New,Jeans,Fashion,2,1451,0,2902.0,1909.27,992.73,West,Debit Card,Delivered
+ORD1255,2025-04-29,CUST1004,Returning,Handbag,Fashion,2,1588,0,0.0,2429.72,0.0,South,Cash on Delivery,Cancelled
+ORD1256,2025-09-27,CUST1007,Returning,Speaker,Electronics,4,2116,5,0.0,6560.12,0.0,Central,Debit Card,Returned
+ORD1257,2025-02-07,CUST1127,New,Speaker,Electronics,2,2350,0,4700.0,2996.96,1703.04,North,Debit Card,Delivered
+ORD1258,2025-12-26,CUST1040,Returning,Moisturizer,Beauty,2,356,5,676.4,545.26,131.14,North,UPI,Delivered
+ORD1259,2025-11-18,CUST1076,Loyal,T-Shirt,Fashion,4,506,20,0.0,1188.69,0.0,North,Debit Card,Returned
+ORD1260,2025-03-24,CUST1028,New,Headphones,Electronics,4,1467,5,5574.6,4541.23,1033.37,North,UPI,Delivered
+ORD1261,2025-05-17,CUST1040,New,Sneakers,Fashion,1,2684,10,2415.6,1866.59,549.01,East,Credit Card,Delivered
+ORD1262,2025-04-08,CUST1033,Loyal,Mixer Grinder,Home & Kitchen,2,3197,0,0.0,4275.71,0.0,East,Credit Card,Returned
+ORD1263,2025-05-06,CUST1020,Loyal,Smart Watch,Electronics,2,2671,20,4273.6,3815.52,458.08,Central,Net Banking,Delivered
+ORD1264,2025-07-12,CUST1025,Returning,Bottle,Home & Kitchen,3,433,15,0.0,790.83,0.0,Central,Debit Card,Returned
+ORD1265,2025-04-05,CUST1006,New,Headphones,Electronics,3,1281,0,0.0,2262.72,0.0,West,Credit Card,Returned
+ORD1266,2025-06-02,CUST1058,New,Speaker,Electronics,1,1883,5,1788.85,1164.53,624.32,South,Credit Card,Delivered
+ORD1267,2025-05-09,CUST1140,Returning,Smart Watch,Electronics,1,2749,5,0.0,2137.65,0.0,West,Debit Card,Cancelled
+ORD1268,2025-03-03,CUST1066,Returning,T-Shirt,Fashion,4,550,15,0.0,1656.23,0.0,West,Net Banking,Returned
+ORD1269,2025-01-14,CUST1014,Returning,T-Shirt,Fashion,4,439,20,0.0,1264.71,0.0,North,UPI,Returned
+ORD1270,2025-10-02,CUST1042,Returning,Bedsheet,Home & Kitchen,4,1047,10,0.0,2284.34,0.0,Central,UPI,Returned
+ORD1271,2025-03-09,CUST1041,Loyal,Jeans,Fashion,2,1272,20,2035.2,1904.56,130.64,Central,Debit Card,Delivered
+ORD1272,2025-01-19,CUST1023,New,Sneakers,Fashion,3,2468,10,6663.6,4817.76,1845.84,West,Debit Card,Delivered
+ORD1273,2025-07-01,CUST1146,Loyal,Jeans,Fashion,4,1214,15,0.0,3515.88,0.0,North,UPI,Returned
+ORD1274,2025-03-02,CUST1140,New,Sneakers,Fashion,1,2798,5,2658.1,1646.61,1011.49,South,Debit Card,Delivered
+ORD1275,2025-07-05,CUST1077,New,Mixer Grinder,Home & Kitchen,1,3455,0,0.0,1857.26,0.0,North,Cash on Delivery,Returned
+ORD1276,2025-02-14,CUST1089,Returning,Headphones,Electronics,4,1716,5,6520.8,4146.19,2374.61,East,Debit Card,Delivered
+ORD1277,2025-04-04,CUST1073,Loyal,Smart Watch,Electronics,1,3538,15,3007.3,2642.38,364.92,Central,UPI,Delivered
+ORD1278,2025-09-07,CUST1068,Returning,Smart Watch,Electronics,4,3486,5,13246.8,8538.51,4708.29,South,UPI,Delivered
+ORD1279,2025-02-12,CUST1099,New,Sunscreen,Beauty,2,486,15,826.2,515.23,310.97,East,Cash on Delivery,Delivered
+ORD1280,2025-11-07,CUST1049,New,Speaker,Electronics,4,2192,10,0.0,4870.47,0.0,Central,Debit Card,Returned
+ORD1281,2025-03-10,CUST1030,New,Speaker,Electronics,1,1942,10,1747.8,1204.7,543.1,South,Cash on Delivery,Delivered
+ORD1282,2025-04-16,CUST1089,Loyal,T-Shirt,Fashion,2,512,20,0.0,633.35,0.0,South,Debit Card,Cancelled
+ORD1283,2025-07-16,CUST1149,Returning,Sunscreen,Beauty,4,390,15,1326.0,1094.44,231.56,North,UPI,Delivered
+ORD1284,2025-11-01,CUST1131,Returning,T-Shirt,Fashion,1,547,0,547.0,387.33,159.67,Central,Cash on Delivery,Delivered
+ORD1285,2025-09-16,CUST1033,Loyal,Bedsheet,Home & Kitchen,4,1135,0,4540.0,3017.33,1522.67,West,Cash on Delivery,Delivered
+ORD1286,2025-09-10,CUST1015,Loyal,T-Shirt,Fashion,1,479,15,0.0,274.53,0.0,West,Cash on Delivery,Cancelled
+ORD1287,2025-03-20,CUST1047,New,Headphones,Electronics,2,1755,0,0.0,2382.36,0.0,West,UPI,Cancelled
+ORD1288,2025-04-25,CUST1114,Returning,Bedsheet,Home & Kitchen,1,850,20,0.0,651.7,0.0,South,Debit Card,Cancelled
+ORD1289,2025-08-20,CUST1135,Loyal,T-Shirt,Fashion,2,510,10,918.0,689.03,228.97,Central,UPI,Delivered
+ORD1290,2025-02-06,CUST1115,Returning,T-Shirt,Fashion,1,482,0,482.0,272.51,209.49,West,Net Banking,Delivered
+ORD1291,2025-05-26,CUST1148,New,Speaker,Electronics,1,1965,15,1670.25,1156.03,514.22,North,UPI,Delivered
+ORD1292,2025-04-23,CUST1021,Returning,Jeans,Fashion,2,1352,0,2704.0,1987.33,716.67,North,Cash on Delivery,Delivered
+ORD1293,2025-09-12,CUST1011,Returning,Sunscreen,Beauty,2,465,15,790.5,524.78,265.72,Central,Credit Card,Delivered
+ORD1294,2025-04-20,CUST1004,New,Bottle,Home & Kitchen,1,452,15,0.0,245.49,0.0,East,Net Banking,Returned
+ORD1295,2025-01-11,CUST1076,Loyal,Headphones,Electronics,3,1485,5,0.0,2882.89,0.0,East,UPI,Cancelled
+ORD1296,2025-12-02,CUST1103,New,Sunscreen,Beauty,1,452,0,0.0,313.22,0.0,Central,Debit Card,Returned
+ORD1297,2025-10-07,CUST1038,New,Jeans,Fashion,3,1302,10,3515.4,2341.35,1174.05,North,UPI,Delivered
+ORD1298,2025-02-05,CUST1036,New,Face Wash,Beauty,3,222,10,0.0,493.1,0.0,East,UPI,Cancelled
+ORD1299,2025-02-08,CUST1011,Returning,Headphones,Electronics,4,1762,5,6695.6,5035.79,1659.81,South,Cash on Delivery,Delivered
+ORD1300,2025-05-25,CUST1029,New,Sneakers,Fashion,1,2614,0,0.0,1534.37,0.0,South,Debit Card,Returned
+ORD1301,2025-03-16,CUST1038,Returning,Bottle,Home & Kitchen,4,438,10,0.0,1278.09,0.0,West,Credit Card,Returned
+ORD1302,2025-03-13,CUST1081,Returning,Sneakers,Fashion,4,2686,20,0.0,6751.5,0.0,South,UPI,Returned
+ORD1303,2025-02-05,CUST1030,Returning,Speaker,Electronics,3,1743,20,0.0,2887.45,0.0,Central,UPI,Returned
+ORD1304,2025-04-06,CUST1114,Loyal,Sunscreen,Beauty,3,391,0,0.0,802.59,0.0,Central,Cash on Delivery,Cancelled
+ORD1305,2025-03-11,CUST1100,Returning,Mixer Grinder,Home & Kitchen,2,3563,0,0.0,4794.06,0.0,West,Cash on Delivery,Returned
+ORD1306,2025-11-02,CUST1086,New,Moisturizer,Beauty,1,365,15,310.25,235.48,74.77,East,Debit Card,Delivered
+ORD1307,2025-04-15,CUST1119,Returning,Storage Box,Home & Kitchen,3,745,15,0.0,1535.0,0.0,Central,Debit Card,Cancelled
+ORD1308,2025-07-22,CUST1102,New,Storage Box,Home & Kitchen,1,657,20,525.6,490.76,34.84,South,Debit Card,Delivered
+ORD1309,2025-04-18,CUST1051,Returning,Wireless Mouse,Electronics,3,672,5,1915.2,1358.29,556.91,Central,Net Banking,Delivered
+ORD1310,2025-05-18,CUST1029,New,Mixer Grinder,Home & Kitchen,3,3205,5,9134.25,5357.3,3776.95,Central,Net Banking,Delivered
+ORD1311,2025-11-09,CUST1058,Returning,Handbag,Fashion,1,1591,5,1511.45,1164.76,346.69,Central,Net Banking,Delivered
+ORD1312,2025-12-19,CUST1139,Loyal,Speaker,Electronics,3,2331,0,6993.0,3728.99,3264.01,West,Debit Card,Delivered
+ORD1313,2025-08-17,CUST1103,Loyal,Sneakers,Fashion,1,2799,15,2379.15,1480.13,899.02,East,Net Banking,Delivered
+ORD1314,2025-10-12,CUST1097,Returning,Speaker,Electronics,1,2319,15,0.0,1526.89,0.0,West,Debit Card,Returned
+ORD1315,2025-01-08,CUST1035,Returning,Headphones,Electronics,1,1389,5,0.0,774.95,0.0,Central,Credit Card,Returned
+ORD1316,2025-06-08,CUST1023,Loyal,Headphones,Electronics,3,1456,15,0.0,3307.33,0.0,North,Net Banking,Cancelled
+ORD1317,2025-07-12,CUST1003,Loyal,Moisturizer,Beauty,3,420,15,0.0,881.41,0.0,Central,Debit Card,Cancelled
+ORD1318,2025-01-01,CUST1066,New,Bottle,Home & Kitchen,2,340,20,544.0,443.27,100.73,Central,Credit Card,Delivered
+ORD1319,2025-12-09,CUST1045,Returning,Handbag,Fashion,2,2104,10,3787.2,2537.9,1249.3,South,Debit Card,Delivered
+ORD1320,2025-03-28,CUST1040,Returning,Storage Box,Home & Kitchen,4,659,10,0.0,1387.88,0.0,Central,UPI,Cancelled
+ORD1321,2025-04-28,CUST1060,New,Bedsheet,Home & Kitchen,3,1095,5,3120.75,2224.03,896.72,West,UPI,Delivered
+ORD1322,2025-06-23,CUST1125,Returning,Bottle,Home & Kitchen,4,341,15,1159.4,975.62,183.78,North,Cash on Delivery,Delivered
+ORD1323,2025-04-15,CUST1126,New,Storage Box,Home & Kitchen,4,622,0,0.0,1310.59,0.0,West,UPI,Returned
+ORD1324,2025-02-01,CUST1061,Returning,Smart Watch,Electronics,2,2880,5,5472.0,3670.75,1801.25,West,Net Banking,Delivered
+ORD1325,2025-05-16,CUST1062,Loyal,Storage Box,Home & Kitchen,1,662,15,0.0,359.51,0.0,East,Net Banking,Returned
+ORD1326,2025-02-07,CUST1022,Returning,Handbag,Fashion,3,1800,15,0.0,2852.34,0.0,Central,Credit Card,Cancelled
+ORD1327,2025-04-24,CUST1116,New,Bottle,Home & Kitchen,2,455,20,0.0,589.81,0.0,North,Debit Card,Returned
+ORD1328,2025-11-28,CUST1144,New,Headphones,Electronics,4,1681,20,0.0,5030.52,0.0,East,Net Banking,Returned
+ORD1329,2025-09-02,CUST1037,New,T-Shirt,Fashion,2,516,5,980.4,614.06,366.34,East,Debit Card,Delivered
+ORD1330,2025-08-13,CUST1032,Loyal,Shampoo,Beauty,3,305,0,915.0,586.28,328.72,South,UPI,Delivered
+ORD1331,2025-10-30,CUST1133,Returning,Storage Box,Home & Kitchen,4,726,5,0.0,1729.83,0.0,Central,Cash on Delivery,Returned
+ORD1332,2025-05-24,CUST1112,Returning,Bottle,Home & Kitchen,4,469,0,1876.0,1372.52,503.48,Central,Net Banking,Delivered
+ORD1333,2025-09-09,CUST1060,New,Jeans,Fashion,3,1149,15,2929.95,2545.89,384.06,East,Credit Card,Delivered
+ORD1334,2025-05-23,CUST1071,Returning,Sneakers,Fashion,4,2862,15,9730.8,7663.9,2066.9,East,Debit Card,Delivered
+ORD1335,2025-10-14,CUST1123,Returning,Jeans,Fashion,2,1353,5,2570.7,1739.3,831.4,North,Credit Card,Delivered
+ORD1336,2025-10-14,CUST1111,New,Bedsheet,Home & Kitchen,4,899,0,3596.0,2136.68,1459.32,West,Cash on Delivery,Delivered
+ORD1337,2025-03-27,CUST1149,Loyal,Headphones,Electronics,3,1743,5,4967.55,3909.68,1057.87,North,UPI,Delivered
+ORD1338,2025-09-03,CUST1080,New,Bedsheet,Home & Kitchen,1,978,20,0.0,683.7,0.0,West,Net Banking,Returned
+ORD1339,2025-07-23,CUST1097,Loyal,Bottle,Home & Kitchen,2,456,5,866.4,514.64,351.76,North,Credit Card,Delivered
+ORD1340,2025-07-11,CUST1149,New,Speaker,Electronics,1,2266,20,1812.8,1474.77,338.03,East,Debit Card,Delivered
+ORD1341,2025-04-03,CUST1112,Returning,Handbag,Fashion,4,1740,15,5916.0,3923.1,1992.9,South,UPI,Delivered
+ORD1342,2025-01-13,CUST1051,New,Sneakers,Fashion,4,2126,15,7228.4,5649.3,1579.1,East,Debit Card,Delivered
+ORD1343,2025-04-21,CUST1127,New,Wireless Mouse,Electronics,3,648,0,1944.0,1057.94,886.06,South,Cash on Delivery,Delivered
+ORD1344,2025-12-28,CUST1005,New,Jeans,Fashion,4,1192,15,4052.8,3095.51,957.29,North,Cash on Delivery,Delivered
+ORD1345,2025-07-05,CUST1105,Returning,Face Wash,Beauty,1,284,10,0.0,211.9,0.0,East,Debit Card,Cancelled
+ORD1346,2025-08-04,CUST1142,Returning,Storage Box,Home & Kitchen,4,617,10,2221.2,1329.85,891.35,North,Cash on Delivery,Delivered
+ORD1347,2025-02-26,CUST1008,Returning,Sunscreen,Beauty,4,405,5,0.0,1216.18,0.0,West,Credit Card,Cancelled
+ORD1348,2025-10-15,CUST1016,Returning,Bedsheet,Home & Kitchen,3,934,10,2521.8,1542.24,979.56,South,Credit Card,Delivered
+ORD1349,2025-06-15,CUST1058,Loyal,Speaker,Electronics,3,2152,15,5487.6,4926.5,561.1,West,UPI,Delivered
+ORD1350,2025-11-07,CUST1053,Returning,Bottle,Home & Kitchen,4,450,0,1800.0,1229.33,570.67,West,Cash on Delivery,Delivered
+ORD1351,2025-04-12,CUST1037,New,Face Wash,Beauty,2,216,10,388.8,238.01,150.79,East,Cash on Delivery,Delivered
+ORD1352,2025-06-02,CUST1006,New,Speaker,Electronics,1,1728,5,0.0,1210.14,0.0,East,Debit Card,Returned
+ORD1353,2025-09-04,CUST1102,New,Speaker,Electronics,3,1985,0,0.0,3542.21,0.0,Central,Net Banking,Returned
+ORD1354,2025-07-10,CUST1111,New,Sunscreen,Beauty,3,450,5,1282.5,987.19,295.31,Central,Debit Card,Delivered
+ORD1355,2025-06-30,CUST1041,New,T-Shirt,Fashion,4,536,5,0.0,1477.12,0.0,West,UPI,Cancelled
+ORD1356,2025-05-16,CUST1089,New,Mixer Grinder,Home & Kitchen,2,3281,15,5577.7,3769.55,1808.15,East,UPI,Delivered
+ORD1357,2025-05-31,CUST1049,Returning,Bedsheet,Home & Kitchen,2,974,5,1850.6,1425.76,424.84,South,Net Banking,Delivered
+ORD1358,2025-09-07,CUST1079,New,Storage Box,Home & Kitchen,2,766,0,1532.0,961.71,570.29,East,UPI,Delivered
+ORD1359,2025-03-23,CUST1006,Returning,Handbag,Fashion,1,1772,15,1506.2,1350.24,155.96,Central,Debit Card,Delivered
+ORD1360,2025-02-22,CUST1061,Returning,Headphones,Electronics,1,1332,20,1065.6,787.73,277.87,East,UPI,Delivered
+ORD1361,2025-05-01,CUST1034,New,Wireless Mouse,Electronics,1,617,5,586.15,408.81,177.34,East,Net Banking,Delivered
+ORD1362,2025-08-24,CUST1092,Loyal,Smart Watch,Electronics,1,2694,20,0.0,1833.51,0.0,West,UPI,Returned
+ORD1363,2025-06-09,CUST1140,New,Moisturizer,Beauty,1,421,10,378.9,260.95,117.95,East,Net Banking,Delivered
+ORD1364,2025-05-24,CUST1086,Returning,Sneakers,Fashion,3,2922,10,7889.4,6661.68,1227.72,Central,UPI,Delivered
+ORD1365,2025-04-04,CUST1129,New,T-Shirt,Fashion,3,499,5,1422.15,873.46,548.69,South,Cash on Delivery,Delivered
+ORD1366,2025-03-03,CUST1089,Returning,Shampoo,Beauty,1,270,0,0.0,144.61,0.0,East,Debit Card,Cancelled
+ORD1367,2025-09-20,CUST1133,Returning,Jeans,Fashion,3,1358,10,3666.6,2714.98,951.62,West,Debit Card,Delivered
+ORD1368,2025-11-01,CUST1034,Loyal,Sneakers,Fashion,1,2325,15,1976.25,1805.42,170.83,Central,UPI,Delivered
+ORD1369,2025-08-26,CUST1132,New,Smart Watch,Electronics,2,2870,10,0.0,4414.06,0.0,North,Cash on Delivery,Cancelled
+ORD1370,2025-07-11,CUST1002,New,Headphones,Electronics,4,1530,0,6120.0,3432.26,2687.74,West,Net Banking,Delivered
+ORD1371,2025-12-05,CUST1082,New,Bedsheet,Home & Kitchen,4,882,15,2998.8,2070.44,928.36,Central,Credit Card,Delivered
+ORD1372,2025-04-06,CUST1140,Returning,Handbag,Fashion,1,1807,0,0.0,999.86,0.0,East,Net Banking,Cancelled
+ORD1373,2025-10-30,CUST1042,New,Bedsheet,Home & Kitchen,3,1085,15,0.0,2211.89,0.0,West,Cash on Delivery,Returned
+ORD1374,2025-03-17,CUST1092,Returning,Smart Watch,Electronics,1,2609,20,2087.2,1465.44,621.76,Central,Net Banking,Delivered
+ORD1375,2025-02-18,CUST1032,Loyal,Handbag,Fashion,3,1863,0,5589.0,3858.25,1730.75,West,UPI,Delivered
+ORD1376,2025-05-25,CUST1117,Returning,Shampoo,Beauty,3,278,5,0.0,452.0,0.0,East,UPI,Cancelled
+ORD1377,2025-06-13,CUST1105,New,Speaker,Electronics,4,1892,5,0.0,5434.88,0.0,Central,Cash on Delivery,Returned
+ORD1378,2025-05-08,CUST1112,Returning,Face Wash,Beauty,1,238,10,214.2,148.09,66.11,North,Debit Card,Delivered
+ORD1379,2025-08-22,CUST1057,Returning,Jeans,Fashion,1,1218,20,0.0,824.13,0.0,South,UPI,Returned
+ORD1380,2025-11-29,CUST1001,New,Headphones,Electronics,1,1761,0,0.0,1198.58,0.0,East,Cash on Delivery,Cancelled
+ORD1381,2025-03-18,CUST1147,Returning,T-Shirt,Fashion,4,550,10,1980.0,1572.72,407.28,South,Cash on Delivery,Delivered
+ORD1382,2025-01-10,CUST1118,Returning,Sunscreen,Beauty,1,513,10,461.7,353.25,108.45,Central,Debit Card,Delivered
+ORD1383,2025-10-20,CUST1067,New,Bottle,Home & Kitchen,1,367,10,330.3,247.88,82.42,North,Net Banking,Delivered
+ORD1384,2025-01-24,CUST1068,New,T-Shirt,Fashion,2,491,15,834.7,697.44,137.26,East,Net Banking,Delivered
+ORD1385,2025-01-03,CUST1092,Returning,Bedsheet,Home & Kitchen,3,1135,0,0.0,2069.38,0.0,West,Credit Card,Returned
+ORD1386,2025-07-16,CUST1048,New,Wireless Mouse,Electronics,1,639,5,0.0,458.7,0.0,East,Debit Card,Cancelled
+ORD1387,2025-05-23,CUST1145,Returning,Handbag,Fashion,4,2048,0,0.0,6070.83,0.0,Central,UPI,Returned
+ORD1388,2025-03-22,CUST1030,Loyal,Headphones,Electronics,2,1401,0,2802.0,2151.47,650.53,West,Cash on Delivery,Delivered
+ORD1389,2025-01-09,CUST1141,New,Bottle,Home & Kitchen,3,382,15,0.0,651.55,0.0,West,Credit Card,Cancelled
+ORD1390,2025-10-06,CUST1101,New,Bedsheet,Home & Kitchen,3,997,10,0.0,1679.35,0.0,Central,Credit Card,Cancelled
+ORD1391,2025-09-07,CUST1029,Returning,Speaker,Electronics,2,1917,15,3258.9,2183.5,1075.4,South,UPI,Delivered
+ORD1392,2025-09-10,CUST1007,Returning,Bedsheet,Home & Kitchen,4,989,5,0.0,2158.24,0.0,East,Cash on Delivery,Returned
+ORD1393,2025-08-06,CUST1026,Loyal,Shampoo,Beauty,1,330,0,330.0,197.63,132.37,North,UPI,Delivered
+ORD1394,2025-04-19,CUST1028,New,Moisturizer,Beauty,3,435,0,0.0,969.87,0.0,North,Debit Card,Cancelled
+ORD1395,2025-11-08,CUST1009,Loyal,Handbag,Fashion,1,1639,10,1475.1,882.21,592.89,East,Credit Card,Delivered
+ORD1396,2025-01-24,CUST1104,New,Face Wash,Beauty,4,223,0,0.0,603.18,0.0,North,UPI,Cancelled
+ORD1397,2025-07-24,CUST1148,Returning,Speaker,Electronics,3,2349,15,0.0,4966.71,0.0,South,UPI,Cancelled
+ORD1398,2025-10-05,CUST1039,Returning,Shampoo,Beauty,2,254,0,508.0,387.92,120.08,Central,UPI,Delivered
+ORD1399,2025-07-30,CUST1044,New,Speaker,Electronics,1,2178,0,0.0,1213.71,0.0,West,UPI,Returned
+ORD1400,2025-07-31,CUST1015,New,Jeans,Fashion,3,1381,15,3521.55,2752.21,769.34,East,Net Banking,Delivered
+ORD1401,2025-11-06,CUST1063,New,Mixer Grinder,Home & Kitchen,4,3802,15,0.0,11578.49,0.0,South,UPI,Cancelled
+ORD1402,2025-12-22,CUST1089,New,Speaker,Electronics,1,1931,0,0.0,1401.07,0.0,Central,Cash on Delivery,Cancelled
+ORD1403,2025-07-16,CUST1122,Returning,Sneakers,Fashion,1,2355,0,2355.0,1392.52,962.48,South,Cash on Delivery,Delivered
+ORD1404,2025-05-07,CUST1073,Returning,Speaker,Electronics,4,2145,10,7722.0,5907.37,1814.63,South,UPI,Delivered
+ORD1405,2025-03-30,CUST1043,New,Jeans,Fashion,1,1174,0,1174.0,901.71,272.29,West,Credit Card,Delivered
+ORD1406,2025-11-18,CUST1084,New,Sunscreen,Beauty,3,517,15,1318.35,852.83,465.52,South,Net Banking,Delivered
+ORD1407,2025-12-13,CUST1074,New,Moisturizer,Beauty,2,467,10,840.6,551.47,289.13,South,Net Banking,Delivered
+ORD1408,2025-02-27,CUST1105,New,Speaker,Electronics,2,2072,0,4144.0,2240.34,1903.66,North,Debit Card,Delivered
+ORD1409,2025-04-29,CUST1022,Loyal,T-Shirt,Fashion,1,455,20,0.0,349.17,0.0,South,Debit Card,Cancelled
+ORD1410,2025-06-01,CUST1081,New,Bedsheet,Home & Kitchen,3,1081,10,0.0,2094.01,0.0,Central,UPI,Returned
+ORD1411,2025-11-03,CUST1096,Returning,Mixer Grinder,Home & Kitchen,1,3104,0,3104.0,1768.0,1336.0,North,Debit Card,Delivered
+ORD1412,2025-07-19,CUST1074,Returning,Wireless Mouse,Electronics,2,578,15,0.0,775.15,0.0,North,Net Banking,Cancelled
+ORD1413,2025-06-23,CUST1048,New,Storage Box,Home & Kitchen,2,704,0,1408.0,1077.19,330.81,Central,Net Banking,Delivered
+ORD1414,2025-04-28,CUST1011,Loyal,Mixer Grinder,Home & Kitchen,1,2871,5,2727.45,1940.51,786.94,Central,Net Banking,Delivered
+ORD1415,2025-11-13,CUST1016,New,Handbag,Fashion,3,1702,10,4595.4,3634.14,961.26,West,Credit Card,Delivered
+ORD1416,2025-03-15,CUST1128,Returning,Speaker,Electronics,2,2165,0,0.0,2931.93,0.0,North,Net Banking,Returned
+ORD1417,2025-01-30,CUST1037,New,Sneakers,Fashion,1,2902,10,2611.8,1528.81,1082.99,North,Credit Card,Delivered
+ORD1418,2025-09-28,CUST1124,New,Sneakers,Fashion,4,2365,20,7568.0,5755.81,1812.19,North,UPI,Delivered
+ORD1419,2025-05-01,CUST1059,New,Jeans,Fashion,3,1445,0,4335.0,3126.41,1208.59,East,UPI,Delivered
+ORD1420,2025-12-08,CUST1073,Returning,Wireless Mouse,Electronics,2,607,5,1153.3,808.23,345.07,North,Cash on Delivery,Delivered
+ORD1421,2025-09-09,CUST1050,Returning,T-Shirt,Fashion,2,520,20,832.0,625.89,206.11,South,Cash on Delivery,Delivered
+ORD1422,2025-01-05,CUST1025,Returning,Headphones,Electronics,2,1715,10,3087.0,2546.24,540.76,West,Debit Card,Delivered
+ORD1423,2025-02-20,CUST1130,Loyal,Smart Watch,Electronics,4,2999,5,0.0,7132.26,0.0,West,Debit Card,Returned
+ORD1424,2025-02-22,CUST1041,New,Smart Watch,Electronics,3,3092,20,0.0,5882.94,0.0,South,Cash on Delivery,Returned
+ORD1425,2025-09-24,CUST1017,Returning,Shampoo,Beauty,1,327,20,0.0,176.4,0.0,East,Cash on Delivery,Returned
+ORD1426,2025-10-25,CUST1122,Returning,Smart Watch,Electronics,4,3067,10,0.0,9179.87,0.0,South,Credit Card,Returned
+ORD1427,2025-07-16,CUST1009,New,Sneakers,Fashion,1,2667,20,2133.6,1741.3,392.3,West,Credit Card,Delivered
+ORD1428,2025-07-02,CUST1052,Returning,Bottle,Home & Kitchen,4,346,0,0.0,1029.42,0.0,North,Debit Card,Returned
+ORD1429,2025-06-06,CUST1124,Returning,Headphones,Electronics,3,1316,20,0.0,3001.72,0.0,North,Debit Card,Returned
+ORD1430,2025-06-11,CUST1049,New,Moisturizer,Beauty,1,349,0,349.0,211.31,137.69,East,Debit Card,Delivered
+ORD1431,2025-02-24,CUST1051,Returning,Speaker,Electronics,1,1725,20,1380.0,1291.22,88.78,West,Cash on Delivery,Delivered
+ORD1432,2025-01-11,CUST1006,Loyal,Handbag,Fashion,4,1939,20,6204.8,4035.12,2169.68,West,Cash on Delivery,Delivered
+ORD1433,2025-06-22,CUST1119,New,Face Wash,Beauty,4,213,0,0.0,542.98,0.0,South,Credit Card,Cancelled
+ORD1434,2025-10-17,CUST1146,Returning,Bottle,Home & Kitchen,4,420,5,1596.0,1009.17,586.83,East,Debit Card,Delivered
+ORD1435,2025-06-06,CUST1137,Loyal,Jeans,Fashion,2,1341,15,2279.7,1971.12,308.58,South,Debit Card,Delivered
+ORD1436,2025-03-14,CUST1113,Returning,Jeans,Fashion,3,1463,20,3511.2,3081.06,430.14,South,Cash on Delivery,Delivered
+ORD1437,2025-07-13,CUST1092,New,Smart Watch,Electronics,2,3131,20,5009.6,4649.85,359.75,East,Net Banking,Delivered
+ORD1438,2025-12-21,CUST1086,New,Bedsheet,Home & Kitchen,4,978,10,0.0,2455.36,0.0,West,Cash on Delivery,Returned
+ORD1439,2025-06-19,CUST1042,Loyal,Bottle,Home & Kitchen,3,404,10,0.0,844.95,0.0,West,Cash on Delivery,Returned
+ORD1440,2025-11-06,CUST1026,Returning,Face Wash,Beauty,4,287,20,0.0,778.86,0.0,Central,Cash on Delivery,Cancelled
+ORD1441,2025-12-28,CUST1065,New,Sneakers,Fashion,4,2214,10,7970.4,5770.13,2200.27,Central,UPI,Delivered
+ORD1442,2025-01-02,CUST1025,Returning,Sunscreen,Beauty,2,388,20,620.8,499.05,121.75,South,Cash on Delivery,Delivered
+ORD1443,2025-09-25,CUST1082,Loyal,Smart Watch,Electronics,3,2701,5,7697.85,6086.06,1611.79,East,Credit Card,Delivered
+ORD1444,2025-03-31,CUST1128,Loyal,Sneakers,Fashion,2,2520,20,0.0,2770.77,0.0,West,Debit Card,Returned
+ORD1445,2025-07-15,CUST1139,Returning,T-Shirt,Fashion,3,472,0,0.0,919.77,0.0,East,Debit Card,Cancelled
+ORD1446,2025-04-28,CUST1122,Loyal,Bedsheet,Home & Kitchen,3,1147,20,2752.8,2660.14,92.66,North,Debit Card,Delivered
+ORD1447,2025-11-21,CUST1067,New,Face Wash,Beauty,2,274,20,438.4,328.71,109.69,East,Credit Card,Delivered
+ORD1448,2025-08-17,CUST1119,Returning,Moisturizer,Beauty,2,437,0,874.0,628.49,245.51,East,Cash on Delivery,Delivered
+ORD1449,2025-05-22,CUST1044,Loyal,Sunscreen,Beauty,4,439,0,1756.0,1268.94,487.06,North,Credit Card,Delivered
+ORD1450,2025-09-29,CUST1133,Loyal,Mixer Grinder,Home & Kitchen,1,2852,10,0.0,2127.76,0.0,South,Debit Card,Returned
+ORD1451,2025-10-09,CUST1001,New,Headphones,Electronics,1,1522,20,1217.6,1161.66,55.94,South,Credit Card,Delivered
+ORD1452,2025-01-06,CUST1134,Returning,Headphones,Electronics,1,1598,5,1518.1,1086.49,431.61,East,Cash on Delivery,Delivered
+ORD1453,2025-03-31,CUST1042,Returning,Jeans,Fashion,1,1241,5,0.0,845.95,0.0,North,Net Banking,Returned
+ORD1454,2025-02-22,CUST1029,New,Mixer Grinder,Home & Kitchen,3,3767,5,0.0,7765.03,0.0,West,Net Banking,Cancelled
+ORD1455,2025-01-27,CUST1033,Loyal,Storage Box,Home & Kitchen,2,730,5,1387.0,1071.28,315.72,East,Debit Card,Delivered
+ORD1456,2025-09-03,CUST1114,New,Smart Watch,Electronics,1,3356,15,2852.6,1790.32,1062.28,South,Credit Card,Delivered
+ORD1457,2025-07-17,CUST1031,New,Headphones,Electronics,4,1421,20,4547.2,3412.7,1134.5,Central,UPI,Delivered
+ORD1458,2025-11-30,CUST1137,Loyal,Speaker,Electronics,2,2279,10,4102.2,2622.2,1480.0,South,Cash on Delivery,Delivered
+ORD1459,2025-02-09,CUST1087,New,Headphones,Electronics,2,1378,5,2618.2,1705.41,912.79,Central,Cash on Delivery,Delivered
+ORD1460,2025-12-04,CUST1086,New,Wireless Mouse,Electronics,2,665,15,0.0,802.96,0.0,Central,UPI,Returned
+ORD1461,2025-10-05,CUST1015,New,Bottle,Home & Kitchen,1,395,15,335.75,224.35,111.4,South,Net Banking,Delivered
+ORD1462,2025-10-15,CUST1082,Returning,Mixer Grinder,Home & Kitchen,2,2846,5,0.0,3096.37,0.0,Central,Debit Card,Cancelled
+ORD1463,2025-02-01,CUST1037,Returning,Smart Watch,Electronics,1,2573,0,2573.0,1928.9,644.1,Central,Cash on Delivery,Delivered
+ORD1464,2025-11-18,CUST1111,Loyal,Wireless Mouse,Electronics,1,574,5,0.0,364.0,0.0,North,Cash on Delivery,Cancelled
+ORD1465,2025-05-30,CUST1121,Loyal,Shampoo,Beauty,4,338,20,0.0,959.74,0.0,East,Debit Card,Returned
+ORD1466,2025-10-12,CUST1120,Loyal,Bedsheet,Home & Kitchen,3,1129,0,3387.0,2483.11,903.89,West,Credit Card,Delivered
+ORD1467,2025-08-29,CUST1087,New,Bottle,Home & Kitchen,4,462,5,0.0,1236.53,0.0,West,Net Banking,Returned
+ORD1468,2025-06-19,CUST1029,Loyal,Headphones,Electronics,3,1667,15,4250.85,2875.13,1375.72,Central,Debit Card,Delivered
+ORD1469,2025-07-31,CUST1031,New,Wireless Mouse,Electronics,3,558,20,0.0,1005.22,0.0,West,Debit Card,Returned
+ORD1470,2025-04-14,CUST1042,Loyal,T-Shirt,Fashion,4,500,5,1900.0,1176.06,723.94,South,UPI,Delivered
+ORD1471,2025-06-05,CUST1119,Returning,Moisturizer,Beauty,2,350,5,665.0,374.63,290.37,South,Credit Card,Delivered
+ORD1472,2025-08-30,CUST1123,Returning,Mixer Grinder,Home & Kitchen,3,3827,5,0.0,8002.0,0.0,South,Debit Card,Returned
+ORD1473,2025-06-29,CUST1126,Loyal,Bedsheet,Home & Kitchen,1,1099,0,0.0,595.76,0.0,East,Credit Card,Returned
+ORD1474,2025-08-15,CUST1105,New,Sneakers,Fashion,4,2916,10,10497.6,7123.68,3373.92,West,Credit Card,Delivered
+ORD1475,2025-06-29,CUST1117,Returning,Speaker,Electronics,1,2070,0,0.0,1425.64,0.0,North,Credit Card,Cancelled
+ORD1476,2025-01-19,CUST1024,Returning,Headphones,Electronics,1,1428,10,1285.2,750.04,535.16,West,Cash on Delivery,Delivered
+ORD1477,2025-03-22,CUST1010,Returning,Moisturizer,Beauty,4,413,20,1321.6,1101.32,220.28,South,Credit Card,Delivered
+ORD1478,2025-06-02,CUST1095,Returning,T-Shirt,Fashion,2,537,20,0.0,773.08,0.0,East,UPI,Returned
+ORD1479,2025-08-21,CUST1094,Returning,Mixer Grinder,Home & Kitchen,3,3098,0,9294.0,7093.72,2200.28,East,Cash on Delivery,Delivered
+ORD1480,2025-12-26,CUST1006,Returning,Sneakers,Fashion,2,2363,0,4726.0,3299.95,1426.05,East,Credit Card,Delivered
+ORD1481,2025-11-21,CUST1077,Returning,Storage Box,Home & Kitchen,3,744,0,0.0,1717.23,0.0,West,Cash on Delivery,Cancelled
+ORD1482,2025-11-05,CUST1059,Returning,Wireless Mouse,Electronics,2,592,10,1065.6,728.58,337.02,South,Credit Card,Delivered
+ORD1483,2025-10-23,CUST1005,Returning,Bottle,Home & Kitchen,2,432,10,777.6,554.85,222.75,North,Credit Card,Delivered
+ORD1484,2025-09-02,CUST1071,New,Shampoo,Beauty,2,309,0,618.0,421.0,197.0,Central,Credit Card,Delivered
+ORD1485,2025-02-26,CUST1143,New,Speaker,Electronics,1,2358,15,2004.3,1227.34,776.96,Central,Debit Card,Delivered
+ORD1486,2025-03-24,CUST1006,Loyal,Bedsheet,Home & Kitchen,4,1084,20,3468.8,3353.27,115.53,North,Net Banking,Delivered
+ORD1487,2025-09-17,CUST1079,Loyal,Moisturizer,Beauty,2,357,20,0.0,467.04,0.0,Central,Cash on Delivery,Cancelled
+ORD1488,2025-09-26,CUST1122,Returning,T-Shirt,Fashion,2,446,10,802.8,497.09,305.71,South,Debit Card,Delivered
+ORD1489,2025-09-10,CUST1123,Returning,Sneakers,Fashion,3,2794,10,0.0,5550.76,0.0,North,Debit Card,Returned
+ORD1490,2025-12-03,CUST1082,Returning,Moisturizer,Beauty,2,391,0,782.0,512.1,269.9,West,Debit Card,Delivered
+ORD1491,2025-04-25,CUST1085,Returning,Speaker,Electronics,4,1927,5,0.0,4423.71,0.0,West,Net Banking,Returned
+ORD1492,2025-09-14,CUST1006,Returning,Wireless Mouse,Electronics,4,614,15,2087.6,1602.89,484.71,North,Credit Card,Delivered
+ORD1493,2025-12-05,CUST1028,New,Jeans,Fashion,3,1317,15,3358.35,2129.55,1228.8,South,Cash on Delivery,Delivered
+ORD1494,2025-11-09,CUST1045,Returning,Wireless Mouse,Electronics,4,550,15,1870.0,1644.93,225.07,South,Net Banking,Delivered
+ORD1495,2025-02-18,CUST1143,New,Sunscreen,Beauty,3,391,0,1173.0,911.61,261.39,North,Credit Card,Delivered
+ORD1496,2025-05-03,CUST1014,Returning,Sneakers,Fashion,1,2697,20,2157.6,1644.27,513.33,West,UPI,Delivered
+ORD1497,2025-09-19,CUST1030,New,T-Shirt,Fashion,1,581,10,522.9,380.96,141.94,West,Credit Card,Delivered
+ORD1498,2025-08-06,CUST1067,Returning,Smart Watch,Electronics,1,3037,20,0.0,1648.21,0.0,South,Credit Card,Cancelled
+ORD1499,2025-06-21,CUST1150,Loyal,T-Shirt,Fashion,1,460,0,460.0,357.66,102.34,East,Debit Card,Delivered
+ORD1500,2025-11-06,CUST1068,New,Speaker,Electronics,2,1855,5,3524.5,2021.06,1503.44,North,UPI,Delivered
